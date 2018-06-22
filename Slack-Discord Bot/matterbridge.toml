@@ -1,0 +1,27 @@
+[discord.mydiscord]
+#You can get your token by following the instructions on
+#https://github.com/42wim/matterbridge/wiki/Discord-bot-setup
+#If you want roles/groups mentions to be shown with names instead of ID, 
+#you'll need to give your bot the "Manage Roles" permission.
+Token="NDU5NTMzMDE4MDE3ODI0NzY4.Dg3lBg._LD7arepwdOYYu27maI0RpcE6Ug"
+Server="The Hawk Collective"
+RemoteNickFormat="[{PROTOCOL}] <{NICK}> "
+
+[slack.myslack]
+#Token to connect with the Slack API
+#You'll have to use a test/api-token using a dedicated user and not a bot token.
+#See https://github.com/42wim/matterbridge/wiki/Slack-bot-setup for more information
+Token="xoxp-164576693234-385907448052-385907567844-315ab578657aba8999f9add129027420"
+RemoteNickFormat="[{PROTOCOL}] <{NICK}> "
+
+[[gateway]]
+name="gateway1"
+enable=true
+
+[[gateway.inout]]
+account="discord.mydiscord"
+channel="slack-announcements"
+
+[[gateway.inout]]
+account="slack.myslack"
+channel="general"
