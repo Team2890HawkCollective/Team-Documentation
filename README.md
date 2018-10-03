@@ -33,6 +33,12 @@ https://docs.google.com/presentation/d/1h1CpowXN0Eyqs9RsSaRyfLd5A2M0Go03onU2MTDC
 ### Agile Project Management
 https://docs.google.com/presentation/d/1rmv0LhyVUDthA42xChWzmQeMT2qr-DQmnREWeVHxgow/edit?usp=sharing 
 
+### Division of Tasks
+https://docs.google.com/presentation/d/1TUDCwVk4LSxkQgnqPrFv8akPKrk-Ux4f6k3G3kBvVvU/edit?usp=sharing
+
+### Giving Feedback
+https://docs.google.com/presentation/d/1xxcNztxCzCXn1caQKeRL1chUKxdv1NpmQFe61TeUMtY/edit?usp=sharing
+
 ### Pneumatics Level 1
 https://docs.google.com/presentation/d/16BwJkEn33W6H7X1cL4XoQbcnVsaojT-WBoEm6UIuRvY/edit?usp=sharing
 
