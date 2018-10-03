@@ -6,7 +6,38 @@ Below are links to GSuite files.  Local .pdf copies of these files are periodica
 
 ## Training Materials
 
+### Java Programming Guide
+https://docs.google.com/presentation/d/1sSDVGMIaUvd3fiOjg9cdvbgQqJr7okUbFaYOy3HcV6s/edit
 
+### Mechanical Level 1
+https://docs.google.com/presentation/d/1afdyd1Ln4b_7ET5zpsmmTgq5VAh4Lgm4FqV9QZvmYpM/edit?usp=sharing
+
+### Mechanical Level 2
+https://docs.google.com/presentation/d/11nzG1T-N_jeItn_2U_zE7HP9TBqtkmeBwYuRIk0krEA/edit?usp=sharing
+
+### Mechanical Level 3
+https://docs.google.com/presentation/d/1bvZiTAnyfKii86X4DAqtb0p8lQDi1hrAtW3457RuM1I/edit?usp=sharing
+
+### Electrical Level 1
+https://docs.google.com/presentation/d/1ML66j3A_JvvFDV3jpp10F8VMPY0fUQmp99wHfjpTfmU/edit?usp=sharing
+
+### Electrical Level 1 Pre-Test
+https://docs.google.com/forms/d/e/1FAIpQLSfNDIUGHs9IJtpVRoVP1ZV12ecqIWAINXb17uMnJUcmdagIew/viewform
+
+### Electrical Level 2
+https://docs.google.com/presentation/d/1eKLgLupR_cIG6qHNxtDR8ajGlrNQ89o7cN4L--2wk5Y/edit?usp=sharing 
+
+### Electrical Level 3
+https://docs.google.com/presentation/d/1h1CpowXN0Eyqs9RsSaRyfLd5A2M0Go03onU2MTDC724/edit?usp=sharing
+
+### Agile Project Management
+https://docs.google.com/presentation/d/1rmv0LhyVUDthA42xChWzmQeMT2qr-DQmnREWeVHxgow/edit?usp=sharing 
+
+### Pneumatics Level 1
+https://docs.google.com/presentation/d/16BwJkEn33W6H7X1cL4XoQbcnVsaojT-WBoEm6UIuRvY/edit?usp=sharing
+
+### Pneumatics Level 2
+https://docs.google.com/presentation/d/1eNavCKvm2hRN_miXN3A7kXfyphxepIYvuOte1jmiGK4/edit?usp=sharing
 
 ## Organizational Documents
 
