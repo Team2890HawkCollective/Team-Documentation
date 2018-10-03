@@ -4,6 +4,9 @@ This repository will contain any documentation relevant to FIRST Robotics team 2
 # Google Drive Links
 Below are links to GSuite files.  Local .pdf copies of these files are periodically updated in the relevant directory of this repository.
 
+## Team 2890 Handbook and Contract (2018)
+https://docs.google.com/document/d/12EQuX9DaThTQ1EQS3PGKzVlZFElw8CkOhll41jxHluY/edit?usp=sharing
+
 ## Training Materials
 
 ### Java Programming Guide
