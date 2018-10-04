@@ -47,7 +47,7 @@ The push command copies the changes that have been made to your local copy of th
 
 For more information you can review the [Java Programming Guide](https://docs.google.com/presentation/d/1sSDVGMIaUvd3fiOjg9cdvbgQqJr7okUbFaYOy3HcV6s/edit?usp=sharing).
 
-Alternatively, Altassian has an excellent [Git Cheat Sheet](https://www.atlassian.com/dam/jcr:8132028b-024f-4b6b-953e-e68fcce0c5fa/atlassian-git-cheatsheet.pdf) with brief explanations of git commands.
+Alternatively, Atlassian has an excellent [Git Cheat Sheet](https://www.atlassian.com/dam/jcr:8132028b-024f-4b6b-953e-e68fcce0c5fa/atlassian-git-cheatsheet.pdf) with brief explanations of git commands.
 
 For a more in-depth explanation of git, consider reading through the [About section of the git-scm website](https://git-scm.com/about)
 
