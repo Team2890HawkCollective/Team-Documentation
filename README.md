@@ -10,7 +10,7 @@ https://docs.google.com/document/d/12EQuX9DaThTQ1EQS3PGKzVlZFElw8CkOhll41jxHluY/
 ## Training Materials
 
 ### Java Programming Guide
-https://docs.google.com/presentation/d/1sSDVGMIaUvd3fiOjg9cdvbgQqJr7okUbFaYOy3HcV6s/edit
+https://docs.google.com/presentation/d/1C-rJWYdNwpe8AQOfcZ8QmqLbk8b_35WhxsG9lNF7ScU/edit?usp=sharing
 
 ### Mechanical Level 1
 https://docs.google.com/presentation/d/1afdyd1Ln4b_7ET5zpsmmTgq5VAh4Lgm4FqV9QZvmYpM/edit?usp=sharing
