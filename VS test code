@@ -1,1 +1,45 @@
 
+public class JavaTest 
+{
+    //creates primitive data types
+    private static double savings = 15000;
+    private static double monthlyIncome = 2000;
+    private static int numMonths = 24;
+    
+    private static boolean taxed = true;
+    private static double taxRate = .125;
+
+
+    public static void main(String[] args) 
+    {
+        //outputs the return for method calcIncome
+        System.out.println(calcIncome());
+    }
+
+    /**
+     * tests to see if taxed is true
+     * if true it will multiply the monthly income 
+     * by 1 - taxRate 
+     * it then adds monthly income to savings for every
+     * month of the year
+     * @return savings
+     */
+    private static double calcIncome() 
+    {
+        //if taxed is true it will multiply monthlyIncome by 1 - taxRate
+		if (taxed)
+        {
+            monthyIncome *= (1 - taxRate);
+        }
+        // creates a loop that runs as long as i is less than numMonths
+        for (int i = 0; i < numMonths; i++) 
+        {
+            //adds monthly income for ever month of the year to savings
+            savings += monthlyIncome;
+        }
+
+        // returns the total savings
+        return savings;
+    }
+
+}
