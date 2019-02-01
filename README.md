@@ -81,3 +81,12 @@ https://docs.google.com/presentation/d/1bFdRdasoMnVfe-o6m00yBRVUjtcVF3cI3ripzmCP
 
 ### Achievements
 https://docs.google.com/document/d/1-REM8ZzukP7QjApmqeaPmcuMiIZk_RweQhLUwNX4Q1U/edit?usp=sharing 
+
+### Programming Level 1 Test
+https://docs.google.com/document/d/1C0qLryw0uFBVyM-b9Q52TsPYh6Ndd6fVce9dHbwZ3Rg/edit
+
+### Programming Level 2 Test
+https://docs.google.com/document/d/1psYC3gWz2IEkw1DGU8p5ST4alL6X15igydV865s1qvI/edit
+
+### Programming Level 3 Test
+https://docs.google.com/document/d/1Z7BzuLNErgNQPcyfzu_p_IBjHuVYKObJcC2eZFD8Td4/edit
