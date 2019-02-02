@@ -43,6 +43,17 @@ The commit command writes your changes to the repo, along with the specified com
 
 The push command copies the changes that have been made to your local copy of the repo to the remote repo that you originally cloned from (usually GitHub).  If changes have been made since you last pulled/cloned you will need to resolve the merge conflicts.
 
+To remove a branch, run the following commands.  This will tag the branch as being archived, then remove it.
+    
+    git tag archive/<branch_name> <branch_name>
+    git checkout master
+    git branch -D <branch_name>
+
+To restore the branch run
+
+    git checkout archive<branch_name>
+    git branch -b <branch_name>
+
 # More Information
 
 For more information you can review the [Java Programming Guide](https://docs.google.com/presentation/d/1sSDVGMIaUvd3fiOjg9cdvbgQqJr7okUbFaYOy3HcV6s/edit?usp=sharing).
