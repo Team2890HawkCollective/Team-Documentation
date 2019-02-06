@@ -43,11 +43,16 @@ The commit command writes your changes to the repo, along with the specified com
 
 The push command copies the changes that have been made to your local copy of the repo to the remote repo that you originally cloned from (usually GitHub).  If changes have been made since you last pulled/cloned you will need to resolve the merge conflicts.
 
+    git merge <branch_name>
+
+The merge command will merge branch 'branch_name' into the current working branch.
+
 To remove a branch, run the following commands.  This will tag the branch as being archived, then remove it.
     
     git tag archive/<branch_name> <branch_name>
     git checkout master
     git branch -D <branch_name>
+    git push --delete <remote_name> <branch_name>
 
 To restore the branch run
 
