@@ -43,6 +43,10 @@ The commit command writes your changes to the repo, along with the specified com
 
 The push command copies the changes that have been made to your local copy of the repo to the remote repo that you originally cloned from (usually GitHub).  If changes have been made since you last pulled/cloned you will need to resolve the merge conflicts.
 
+    git checkout (-b) <branch_name>
+
+The checkout command will change your local files to match those found the the specified branch.  Any changes committed while in a branch will only affect that branch.  You can add the `-b` flag to create a new branch.
+
     git merge <branch_name>
 
 The merge command will merge branch 'branch_name' into the current working branch.
